@@ -49,6 +49,54 @@
         }
       }
     },
+    "fermyon-spin@2.4.2": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#fermyon-spin",
+      "source": "devbox-search",
+      "version": "2.4.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7wh1i0bi52nqfnr4j7aqy7p28a5ffmwr-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7wh1i0bi52nqfnr4j7aqy7p28a5ffmwr-fermyon-spin-2.4.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5wqn9cgfq8z2h3apya81i2djkslpf1cc-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5wqn9cgfq8z2h3apya81i2djkslpf1cc-fermyon-spin-2.4.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gc6psjhw7064qi3vjnypb63hjliqkyhf-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gc6psjhw7064qi3vjnypb63hjliqkyhf-fermyon-spin-2.4.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xba0fxmxxhab24vmsqxz07d8gq4xz1g3-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xba0fxmxxhab24vmsqxz07d8gq4xz1g3-fermyon-spin-2.4.2"
+        }
+      }
+    },
     "k3d@5.6.0": {
       "last_modified": "2024-04-19T17:36:04-04:00",
       "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#k3d",

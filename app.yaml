@@ -15,7 +15,7 @@ spec:
       runtimeClassName: wasmtime-spin-v2
       containers:
       - name: main
-        image: ghcr.io/vfarcic/fermyon-spin-demo:v0.0.1
+        image: ttl.sh/kwasm-demo:v0.0.1
         command: ["/"]
 ---
 apiVersion: v1
